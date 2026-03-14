@@ -1,0 +1,7 @@
+scrapetube
+yt-dlp
+python-pptx
+python-dotenv
+matplotlib
+requests
+numpy
